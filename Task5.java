@@ -37,7 +37,7 @@ public class Task5 {
     }
 
     static void printAuthor() {
-        System.out.println("Разработчик: ______");
+        System.out.println("Разработчик: Беспамятных Евгений");
     }
 
     // ввод: params[0] - масса, params[1] - скорость; null - выход в меню
